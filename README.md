@@ -1,9 +1,9 @@
 # (Projekt neve)
-
+CarSwipe
 # Csapattagok
-- Név
-- Név
-- Név
+- Kiss Máté
+- Benedek Bence
+- Háberl Kristóf
 
 # Projekt leírása
 
